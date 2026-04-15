@@ -1,0 +1,7 @@
+<svg width="220" height="56" viewBox="0 0 220 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="56" rx="12" fill="white"/>
+  <rect x="8" y="8" width="40" height="40" rx="10" fill="#ed1c24"/>
+  <path d="M28 18C22.4772 18 18 22.4772 18 28C18 33.5228 22.4772 38 28 38C31.1815 38 34.0166 36.5144 35.8507 34.1999L31.7562 31.9969C30.8499 33.026 29.5218 33.6667 28 33.6667C24.8704 33.6667 22.3333 31.1296 22.3333 28C22.3333 24.8704 24.8704 22.3333 28 22.3333C29.5218 22.3333 30.8499 22.974 31.7562 24.0031L35.8507 21.8001C34.0166 19.4856 31.1815 18 28 18Z" fill="white"/>
+  <text x="60" y="25" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">O'Brien Energy</text>
+  <text x="60" y="41" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="600">Industrial Decision Intelligence</text>
+</svg>

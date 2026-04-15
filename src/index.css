@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { font-family: Arial, Helvetica, sans-serif; color: #2a2a2a; background: #f3f3f3; }
+html, body, #root { min-height: 100%; }
+body { margin: 0; background: #f3f3f3; color: #2a2a2a; }
+
+.input { @apply w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-sm text-bodytext outline-none transition focus:border-brand-500 focus:ring-4 focus:ring-brand-100; }
+.label { @apply mb-2 block text-sm font-medium text-bodytext; }
+.card { @apply rounded-2xl border border-slate-200 bg-white shadow-soft; }
+.card-title { @apply text-sm font-semibold text-black; }
+.muted { @apply text-sm text-slate-600; }
